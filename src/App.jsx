@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Weather Dashboard</h1>
+      <h1>Meteora</h1>
 
       <div className="search">
         <input
